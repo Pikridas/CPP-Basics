@@ -1,0 +1,73 @@
+
+---Desk Aplications---
+Code: 124
+Name: Discord
+Version: 15
+Price: 0
+Developer: Manos
+Type of files
+1)Type: .txt
+2)Type: .docx
+3)Type: .csv
+4)Type: .pptx
+
+---Evaluations---
+Name: Lampros
+Comments: Arketa kalh
+Stars: 5
+
+
+
+---Desk Aplications---
+Code: 125
+Name: Viber
+Version: 15
+Price: 0
+Developer: Kwstas
+Type of files
+1)Type: .txt
+2)Type: .docx
+3)Type: .csv
+4)Type: .pptx
+5)Type: .xlsx
+
+---Evaluations---
+Name: Mhxalhs
+Comments: Teleia
+Stars: 6
+
+
+---Games---
+Code: 126
+Name: WarZone
+Version: 14
+Price: 60.5
+Developer: Dhmhtrhs
+Category: FPP
+Online: 0
+
+---Evaluations---
+Name: Markos
+Comments: Apsogh
+Stars: 7
+
+Name: Mhxalhs
+Comments: Teleia
+Stars: 6
+
+
+---Games---
+Code: 127
+Name: Tetris
+Version: 14
+Price: 60.5
+Developer: Dhmhtrhs
+Category: FPS
+Online: 0
+
+---Evaluations---
+Name: Lampros
+Comments: Arketa kalh
+Stars: 5
+
+
