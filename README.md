@@ -1,6 +1,6 @@
 # License
 
-This project is licensed under the terms of the MIT [LICENSE](https://github.com/Pikridas/Computer-Architecture-Basics/blob/master/LICENSE).
+This project is licensed under the terms of the MIT [LICENSE](https://github.com/Pikridas/CPP-Basics/blob/master/LICENSE).
 
 Copyright (c) 2021 MENELAOS PIKRIDAS.
 
